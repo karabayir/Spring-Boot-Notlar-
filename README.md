@@ -1,8 +1,4 @@
-# Spring-Boot-Notlar-
-
-
-# spring-boot-2
-Second Spring Boot Project Using Kotlin
+# Spring-Boot-Notlar
 
 
 
