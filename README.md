@@ -99,3 +99,8 @@ Neden Protected Kullandık?
 - Optional if-else yapısından kurtarır.
 - Stream for döngüsünden kurtarır.
 --------------------------------------------------
+
+@Service @Component Farkı Nedir ?
+
+-Bulunduğum sınıftan başka bir katmana erişmek istersem @Service (Başka katmanlara gider) Başka bir katmandan bulunduğum sınıfa erişmek için @Component (Katmanlardan buraya gelir) 
+-@Componet , @Service gibi inject edilebilir. @Service ile aynı özellikleri taşır.
