@@ -105,3 +105,13 @@ Neden Protected Kullandık?
 -Bulunduğum sınıftan başka bir katmana erişmek istersem @Service (Başka katmanlara gider) Başka bir katmandan bulunduğum sınıfa erişmek için @Component (Katmanlardan buraya gelir) 
 
 -@Componet , @Service gibi inject edilebilir. @Service ile aynı özellikleri taşır.
+
+--------------------------------------------------
+
+### CI ( Continuous Integration )
+
+Birden fazla kişinin ya da aynı kişinin yapmış olduğu geliştirmeleri bir yerde kayıt altında tutmasıdır (github ,gitlab , bitbucket).
+
+### CD ( Continuous Deployment )
+
+Geliştirmeler paket haline getirilip belli süreçler sonucunda kullanıma sunulmasıdır.
