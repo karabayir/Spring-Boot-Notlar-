@@ -106,6 +106,8 @@ Neden Protected Kullandık?
 
 -@Componet , @Service gibi inject edilebilir. @Service ile aynı özellikleri taşır.
 
+- Elimizdeki sınıf doğrudan Controller a hizmet etmiyorsa @component kullanımı uygundur. Ancak Controller ile doğrudan etkileşime geçerse @service uygundur.
+
 --------------------------------------------------
 
 ### CI ( Continuous Integration )
